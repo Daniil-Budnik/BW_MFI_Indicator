@@ -6,6 +6,10 @@
     
 ![alt tag](https://github.com/PC-SET/BW_MFI_Indicator/blob/main/Img/2.png?raw=true "-")​
 
+    Все сигналы на одном графике
+    
+![alt tag](https://github.com/PC-SET/BW_MFI_Indicator/blob/main/Img/img.png?raw=true "-")​    
+
     Тестовые данные с YAHOO
 
 ![alt tag](https://github.com/PC-SET/BW_MFI_Indicator/blob/main/Img/1.png?raw=true "-")​
